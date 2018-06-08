@@ -1,0 +1,18 @@
+tag	id	symbol	name
+lp_0001	1061116	dnaA	chromosomal replication initiation protein DnaA
+lp_0002	1061106	dnaN	DNA-directed DNA polymerase III subunit beta
+lp_0004	1061118	lp_0004	hypothetical protein
+lp_0005	1061119	recF	DNA repair and genetic recombination protein RecF
+lp_0009	1061123	rpsF	30S ribosomal protein S6
+lp_0010	1061124	ssb	single-strand DNA-binding protein
+lp_0011	1061125	rpsR	30S ribosomal protein S18
+lp_0012	1061126	lp_0012	phosphoesterase, DHH family
+lp_0013	1061127	rplI	50S ribosomal protein L9
+lp_0014	1061128	dnaC	replicative DNA helicase DnaC
+lp_0015	1061283	lp_0015	transport protein, major facilitator superfamily (MFS)
+lp_0016	1061284	proB	glutamate 5-kinase
+lp_0017	1061286	proA	glutamate-5-semialdehyde dehydrogenase
+lp_0271	1061178	lp_0271	aromatic acid carboxylyase, subunit B
+lp_0373	1064206	lp_0373	cell surface protein precursor, LPXTG-motif cell wall anchor
+lp_1088	1063369	lp_1088	hypothetical protein
+lp_1092	1063361	ttdR	transcription regulator tartrate operon, AraC family

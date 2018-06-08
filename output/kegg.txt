@@ -1,0 +1,18 @@
+id	ko	orthology	pathway
+lp_0001	K02313	chromosomal replication initiator protein	 lpl02020 Two-component system
+lp_0002	K02338	DNA polymerase III subunit beta [EC:2.7.7.7]	 lpl00230 Purine metabolism lpl00240 Pyrimidine metabolism lpl01100 Metabolic pathways lpl03030 DNA replication lpl03430 Mismatch repair lpl03440 Homologous recombination
+lp_0004	NA	NA	NA
+lp_0005	K03629	DNA replication and repair protein RecF	 lpl03440 Homologous recombination
+lp_0009	K02990	small subunit ribosomal protein S6	 lpl03010 Ribosome
+lp_0010	K03111	single-strand DNA-binding protein	 lpl03030 DNA replication lpl03430 Mismatch repair lpl03440 Homologous recombination
+lp_0011	K02963	small subunit ribosomal protein S18	 lpl03010 Ribosome
+lp_0012	NA	NA	NA
+lp_0013	K02939	large subunit ribosomal protein L9	 lpl03010 Ribosome
+lp_0014	K02314	replicative DNA helicase [EC:3.6.4.12]	 lpl03030 DNA replication
+lp_0015	NA	NA	NA
+lp_0016	K00931	glutamate 5-kinase [EC:2.7.2.11]	 lpl00330 Arginine and proline metabolism lpl00332 Carbapenem biosynthesis lpl01100 Metabolic pathways lpl01130 Biosynthesis of antibiotics lpl01230 Biosynthesis of amino acids
+lp_0017	K00147	glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	 lpl00330 Arginine and proline metabolism lpl00332 Carbapenem biosynthesis lpl01100 Metabolic pathways lpl01110 Biosynthesis of secondary metabolites lpl01130 Biosynthesis of antibiotics lpl01230 Biosynthesis of amino acids
+lp_0271	K03186	flavin prenyltransferase [EC:2.5.1.129]	 lpl00130 Ubiquinone and other terpenoid-quinone biosynthesis lpl00627 Aminobenzoate degradation lpl01100 Metabolic pathways lpl01110 Biosynthesis of secondary metabolites lpl01120 Microbial metabolism in diverse environments lpl01220 Degradation of aromatic compounds
+lp_0373	NA	NA	NA
+lp_1088	NA	NA	NA
+lp_1092	NA	NA	NA
